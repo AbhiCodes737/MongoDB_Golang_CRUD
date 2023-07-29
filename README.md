@@ -4,4 +4,4 @@ A simple API to perform CRUD operations - (Get a record, Insert a record, Delete
 
 **Imported and Implemented: "go.mongodb.org/mongo-driver", "github.com/gorilla/mux", "net/http", "encoding/json", "fmt", "log", "context"**
 
-<span style="background-color: #D3D3D3">NOTE: Replace <data> [eg: <username>] with your personal data</span>
+> __NOTE:__ ```Replace <data> [eg: <username>] with your personal data```
